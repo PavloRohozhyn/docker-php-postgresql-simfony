@@ -1,0 +1,1 @@
+# Symfony sources folder
